@@ -5,6 +5,6 @@
 #
 
 📚 Aula 17 
-* Exercício 01
-* Exercício 02
-* Exercício 03
+* Exercício 1
+* Exercício 2
+* Exercício 3
