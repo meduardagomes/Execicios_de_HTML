@@ -9,4 +9,3 @@
 * Exercício 02
 * Exercício 03
 * Exercício 04
-*
